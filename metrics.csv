@@ -1,0 +1,5 @@
+filename,loc,noc,cloc,dc,nof
+./testrepo/test1.ts,17,1,1,0.05555555555555555,1
+./testrepo/test2.ts,10,1,1,0.05555555555555555,4
+./testrepo/testfolder/test3.ts,9,3,3,0.25,3
+./folder2/testfolder/test3.ts,9,3,3,0.25,5
